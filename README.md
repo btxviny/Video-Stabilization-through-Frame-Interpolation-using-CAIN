@@ -9,7 +9,7 @@ This is a pytorch implementation of Video Stabilization using [CAIN](https://www
 Follow these instructions to perform video stabilization using the pretrained model:
 
 1. **Download Pretrained Model:**
-   - Download the pretrained CAIN model [weights](https://drive.google.com/file/d/1zi5ASOnSdWRxrtIzz16WfOi3maB5Nylm/view?usp=drive_link).
+   - Download the pretrained CAIN model [weights](https://drive.google.com/file/d/1XeZ_ox6ByKGTFmJjd3M977MKkdtcX5UI/view?usp=drive_link).
    - Extract the weights and place them inside the `ckpts` folder.
 
 2. **Run the Stabilization Script:**
