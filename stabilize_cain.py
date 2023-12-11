@@ -2,8 +2,6 @@ import numpy as np
 import cv2
 import argparse
 import os
-import datetime
-import matplotlib.pyplot as plt
 import torch
 import cv2
 from models.models import CAIN, ResNet
