@@ -1,4 +1,4 @@
-# Video-Stabilization-through-Frame-Interpolation-using-CAIN
+# CAIN: Video Stabilization through Deep Frame Interpolation
 
 This is a pytorch implementation of Video Stabilization using [CAIN](https://www.researchgate.net/publication/342537485_Channel_Attention_Is_All_You_Need_for_Video_Frame_Interpolation)
 
